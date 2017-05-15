@@ -1,0 +1,138 @@
+Params: {'min_count': 5, 'size': 300}
+Vocab Size: 16553
+
+Most similar with: hà nội
+-----------  --------
+hcm          0.770851
+hồ chí minh  0.76922
+tphcm        0.765096
+tp hcm       0.755711
+tp           0.745617
+đà nẵng      0.715173
+nghệ an      0.704896
+cầu giấy     0.702852
+hải phòng    0.69121
+quận         0.68203
+-----------  --------
+
+
+Most similar with: đặc biệt
+----------  --------
+nhất là     0.570046
+điển hình   0.562033
+chủ yếu     0.55024
+chính       0.537567
+quan trọng  0.518045
+đây         0.497886
+cần thiết   0.482438
+phong phú   0.458536
+lý tưởng    0.458303
+cộng đồng   0.454834
+----------  --------
+
+
+Most similar with: quyết tâm
+----------  --------
+nỗ lực      0.739246
+tinh thần   0.727246
+tích cực    0.715252
+đổi mới     0.709697
+tư duy      0.705562
+mạnh mẽ     0.702619
+quyết liệt  0.697868
+thực tiễn   0.696139
+kiên trì    0.694527
+mong muốn   0.684033
+----------  --------
+
+
+Most similar with: khó khăn
+----------  --------
+hoàn cảnh   0.677722
+khó         0.670778
+áp lực      0.637308
+tích cực    0.626809
+phức tạp    0.622252
+bất cập     0.621161
+căng thẳng  0.61825
+rắc rối     0.617183
+cần thiết   0.613078
+công việc   0.609792
+----------  --------
+
+
+Most similar with: cha
+--------  --------
+bố        0.864189
+con gái   0.846387
+mẹ        0.817941
+con trai  0.800512
+chồng     0.795109
+chú ruột  0.786734
+em gái    0.779467
+vợ chồng  0.767447
+vợ        0.756873
+hàng xóm  0.754833
+--------  --------
+
+
+Most similar with: gái
+---------  --------
+trai       0.860686
+tấn đức    0.738081
+chúc       0.734163
+đám        0.714831
+em trai    0.707007
+chàng      0.701335
+người yêu  0.696833
+con gái    0.691493
+gào        0.686026
+xinh đẹp   0.680911
+---------  --------
+
+
+Most similar with: microsoft
+-------------  --------
+apple          0.85091
+google         0.838823
+samsung        0.798471
+vizio          0.748303
+brand finance  0.708596
+group          0.689325
+nhà cung cấp   0.682811
+nintendo       0.67181
+nhà sản xuất   0.669003
+dự định        0.667523
+-------------  --------
+
+
+Most similar with: apple
+------------  --------
+samsung       0.8696
+microsoft     0.85091
+google        0.74563
+hãng          0.736043
+nhà sản xuất  0.708031
+galaxy s8     0.663593
+công nghệ     0.644985
+vizio         0.641831
+ứng dụng      0.632997
+lg            0.632657
+------------  --------
+
+
+Most similar with: samsung
+-------------  --------
+apple          0.8696
+microsoft      0.798471
+hãng           0.796337
+nhà sản xuất   0.789373
+ford           0.722167
+google         0.693673
+flagship       0.690709
+galaxy s8      0.689643
+brand finance  0.682403
+lg             0.678814
+-------------  --------
+
+

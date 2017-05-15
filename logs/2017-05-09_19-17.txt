@@ -1,0 +1,137 @@
+Vocab Size: 22327
+
+Most similar with: hà nội
+----------------  --------
+bà trưng          0.973558
+quận hai          0.973067
+tp                0.969763
+nguyễn đức chung  0.963322
+cầu giấy          0.961353
+phường minh khai  0.960042
+ubnd              0.957357
+sở giáo dục       0.956771
+chủ tịch          0.956442
+quận              0.952383
+----------------  --------
+
+
+Most similar with: đặc biệt
+----------  --------
+chính       0.985938
+diễn biến   0.980073
+tâm điểm    0.978023
+định hình   0.977973
+vấn đề      0.976122
+thành công  0.975814
+chuyên gia  0.975385
+afv         0.974552
+tương lai   0.974261
+chỉ dẫn     0.974207
+----------  --------
+
+
+Most similar with: quyết tâm
+-----------------  --------
+đòi hỏi            0.9952
+ngoại hình         0.993252
+bản chất           0.993062
+tất cả             0.99301
+khoa học kỹ thuật  0.992824
+chứng tỏ           0.992787
+tình yêu           0.992374
+cố gắng            0.991992
+thể lực            0.991942
+vì thế             0.991932
+-----------------  --------
+
+
+Most similar with: khó khăn
+----------  --------
+đồng nghĩa  0.989197
+vượt trội   0.988623
+cần thiết   0.985784
+quan tâm    0.984542
+hài lòng    0.984406
+gắn kết     0.982721
+thay đổi    0.982234
+học hỏi     0.981983
+thuận lợi   0.981646
+sự          0.981531
+----------  --------
+
+
+Most similar with: cha
+-------  --------
+cô nàng  0.995447
+kẻ       0.995397
+yêu      0.99526
+cập      0.99522
+sách     0.99518
+cười     0.995174
+biến     0.995037
+đồ       0.99493
+mai      0.994813
+con gái  0.994783
+-------  --------
+
+
+Most similar with: gái
+------  --------
+ấy      0.993941
+ai      0.989399
+vợ      0.988005
+cưng    0.987866
+vậy     0.987779
+lỗi     0.98732
+thế     0.986884
+?       0.985914
+ra sao  0.985272
+nghĩ    0.985206
+------  --------
+
+
+Most similar with: microsoft
+-------------  --------
+apple          0.997261
+trò chơi       0.99562
+hoành          0.995467
+galaxy s8      0.995342
+nội thất       0.995249
+đối thủ        0.995243
+gabriel jesus  0.99523
+nền tảng       0.995132
+cao cấp        0.995124
+rèn luyện      0.995106
+-------------  --------
+
+
+Most similar with: apple
+-------------  --------
+microsoft      0.997261
+samsung        0.996317
+cao cấp        0.995689
+niềm           0.995487
+hôn nhân       0.995226
+song           0.995182
+thử nghiệm     0.995126
+hoành          0.994772
+hãng           0.994736
+gabriel jesus  0.994699
+-------------  --------
+
+
+Most similar with: samsung
+-------------  --------
+song           0.996649
+có lẽ          0.996406
+apple          0.996317
+gabriel jesus  0.995397
+quen thuộc     0.995125
+microsoft      0.995033
+galaxy s8      0.994944
+cô nàng        0.994884
+nổi            0.994197
+cbr250rr       0.994163
+-------------  --------
+
+

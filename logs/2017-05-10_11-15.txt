@@ -1,0 +1,138 @@
+Params: {'min_count': 2, 'size': 300}
+Vocab Size: 31628
+
+Most similar with: hà nội
+-----------  --------
+tp hcm       0.798564
+tphcm        0.796022
+tp           0.773248
+hồ chí minh  0.768533
+hcm          0.765523
+hoàn kiếm    0.752763
+đà nẵng      0.722394
+cần thơ      0.696901
+quận         0.695548
+cầu giấy     0.693377
+-----------  --------
+
+
+Most similar with: đặc biệt
+----------  --------
+nhất là     0.614859
+chủ yếu     0.612417
+điển hình   0.605098
+quan trọng  0.591679
+chính       0.57183
+cần thiết   0.521746
+uy tín      0.516154
+những       0.507559
+lý tưởng    0.506876
+sáng tạo    0.505131
+----------  --------
+
+
+Most similar with: quyết tâm
+----------  --------
+tư duy      0.726685
+mong muốn   0.724369
+nỗ lực      0.721294
+tinh thần   0.718161
+thực lực    0.716366
+kiên định   0.71451
+quyết liệt  0.711665
+nghiêm túc  0.707196
+đổi mới     0.704912
+kiên trì    0.703842
+----------  --------
+
+
+Most similar with: khó khăn
+---------  --------
+khó        0.728786
+hoàn cảnh  0.71114
+phức tạp   0.695659
+áp lực     0.689969
+tích cực   0.683362
+bất cập    0.680172
+cần thiết  0.678107
+cập rập    0.678104
+công việc  0.66728
+lo lắng    0.655075
+---------  --------
+
+
+Most similar with: cha
+---------  --------
+bố         0.838038
+con gái    0.825515
+hàng xóm   0.814924
+mẹ         0.808089
+em gái     0.798246
+bạn thân   0.783775
+con trai   0.781791
+con riêng  0.780251
+bác ruột   0.774592
+chồng      0.77222
+---------  --------
+
+
+Most similar with: gái
+-----------  --------
+trai         0.862282
+tuấn billy   0.787546
+dọa dẫm      0.740624
+đám          0.734773
+annika       0.727029
+tấn đức      0.724586
+chúc         0.718213
+xinh đẹp     0.718017
+cậu bé       0.715004
+phương thủy  0.713692
+-----------  --------
+
+
+Most similar with: microsoft
+----------  --------
+google      0.889302
+apple       0.841348
+samsung     0.810875
+vizio       0.763667
+forbes      0.758821
+tv          0.733847
+group       0.73374
+elon musk   0.733059
+evan blass  0.731083
+tesla       0.730855
+----------  --------
+
+
+Most similar with: apple
+---------------  --------
+samsung          0.865299
+microsoft        0.841348
+google           0.777919
+hãng             0.745763
+nhà sản xuất     0.711334
+lg               0.687565
+lockheed martin  0.681142
+ứng dụng         0.671588
+vivaso           0.663615
+công nghệ        0.663215
+---------------  --------
+
+
+Most similar with: samsung
+----------------  --------
+apple             0.865299
+microsoft         0.810875
+nhà sản xuất      0.797223
+hãng              0.774003
+google            0.759062
+ford              0.730855
+lockheed martin   0.729184
+lg                0.726962
+lamborghini urus  0.721598
+nhà mạng          0.713047
+----------------  --------
+
+

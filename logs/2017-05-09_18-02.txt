@@ -1,0 +1,107 @@
+Vocab Size: 15405
+
+Most similar with: hà nội
+----------------  --------
+nguyễn hữu độ     0.994959
+bà trưng          0.99411
+quận hai          0.993716
+nguyễn đức chung  0.993384
+nguyễn thị nghĩa  0.990909
+ubnd              0.989018
+&                 0.98886
+sở gd             0.983403
+tp                0.982785
+đt                0.981665
+----------------  --------
+
+
+Most similar with: đặc biệt
+----------  --------
+quan trọng  0.999567
+coi         0.999358
+thật        0.999136
+sáng tạo    0.999066
+khó khăn    0.999052
+galaxy s8   0.998956
+smartphone  0.998916
+nó          0.998871
+ấy          0.99884
+nhấn        0.998833
+----------  --------
+
+
+Most similar with: quyết tâm
+----------  --------
+phong cách  0.99887
+thiết kế    0.998737
+hiện đại    0.998707
+vai trò     0.998697
+nét         0.998673
+chuyên gia  0.998642
+thành công  0.998629
+chính       0.998627
+con người   0.998585
+đánh giá    0.99858
+----------  --------
+
+
+Most similar with: khó khăn
+----------  --------
+nhu cầu     0.999621
+thật        0.999486
+ít          0.999463
+khó         0.999388
+tính năng   0.999322
+mang        0.999317
+chúng       0.999299
+giải quyết  0.99923
+sáng tạo    0.999192
+phát huy    0.999165
+----------  --------
+
+
+Most similar with: cha
+-----------  --------
+eu           0.997234
+trách nhiệm  0.997168
+tinh thần    0.997148
+nghiên cứu   0.997134
+tân          0.997099
+dân tộc      0.997087
+xem xét      0.997063
+một số       0.997052
+do           0.99705
+?            0.997035
+-----------  --------
+
+
+Most similar with: gái
+----------  --------
+gia đình    0.993903
+điều kiện   0.993815
+lợi         0.993796
+hiện đại    0.993743
+hạn chế     0.993721
+phong cách  0.993713
+chủ nhân    0.993713
+hoàn toàn   0.993688
+đơn giản    0.993682
+giữ         0.993682
+----------  --------
+
+
+Most similar with: microsoft
+----------  --------
+kinh doanh  0.999406
+từng        0.999394
+camera      0.999392
+mẹ          0.999391
+điều chỉnh  0.999373
+dần         0.99937
+máy tính    0.999358
+cùng với    0.999342
+công nghệ   0.99934
+cơ bản      0.99933
+----------  --------
+
+

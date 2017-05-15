@@ -1,0 +1,95 @@
+Params: 
+{'min_count': 5, 'size': 100}
+Vocab Size: 2338
+
+Most similar with: hà nội
+----------------  --------
+tphcm             0.747198
+tp hcm            0.740441
+đà nẵng           0.725321
+tp                0.724781
+hcm               0.719631
+hồ chí minh       0.709197
+phường minh khai  0.681105
+thanh hóa         0.671015
+quận hai          0.664759
+quận              0.660439
+----------------  --------
+
+
+Most similar with: đặc biệt
+----------  --------
+nhất là     0.509967
+chính       0.469405
+chủ yếu     0.437624
+đây         0.42295
+quan trọng  0.422781
+phần lớn    0.420118
+vô cùng     0.41345
+hấp dẫn     0.398889
+nhất        0.393432
+đa dạng     0.390402
+----------  --------
+
+
+Most similar with: quyết tâm
+----------  --------
+mong muốn   0.674434
+hơn nữa     0.671416
+nghiêm túc  0.669836
+tinh thần   0.664247
+tư duy      0.662532
+đổi mới     0.657326
+nỗ lực      0.65628
+bền vững    0.650344
+hết sức     0.648175
+động lực    0.641336
+----------  --------
+
+
+Most similar with: khó khăn
+---------  --------
+hoàn cảnh  0.613018
+phức tạp   0.600974
+khó        0.588375
+tích cực   0.570288
+nhất định  0.553254
+vất vả     0.549778
+công việc  0.546311
+chậm       0.541007
+tồn tại    0.535443
+cần thiết  0.494898
+---------  --------
+
+
+Most similar with: cha
+--------  --------
+con gái   0.812635
+mẹ        0.793978
+con trai  0.775964
+bố        0.775582
+vợ        0.759354
+chồng     0.749765
+vợ chồng  0.714623
+bố mẹ     0.69005
+giết      0.678298
+già       0.649854
+--------  --------
+
+
+Most similar with: gái
+----------  --------
+trai        0.846119
+xinh đẹp    0.665695
+chàng       0.647217
+con gái     0.636568
+người yêu   0.629467
+chàng trai  0.614923
+quen        0.612861
+nhé         0.611522
+già         0.588717
+quên        0.586973
+----------  --------
+
+
+Most similar with: microsoft

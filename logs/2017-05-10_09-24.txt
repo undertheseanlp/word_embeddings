@@ -1,0 +1,90 @@
+Params: {'min_count': 1, 'size': 300}
+Vocab Size: 61466
+
+word 'Hà Nội' not in vocabulary
+
+
+Most similar with: đặc biệt
+------------  --------
+chủ yếu       0.645562
+nhất là       0.644081
+quan trọng    0.629125
+chính         0.609924
+hộ sinh sống  0.57889
+đó            0.559881
+cần thiết     0.557278
+điển hình     0.554955
+sóng xanh     0.550536
+hầu hết       0.545842
+------------  --------
+
+
+Most similar with: quyết tâm
+-----------  --------
+nghiêm túc   0.776257
+tinh thần    0.772986
+đường lối    0.764267
+đổi mới      0.759808
+thực tiễn    0.748305
+tư duy       0.747037
+thực lực     0.744225
+kinh nghiệm  0.743807
+vững mạnh    0.740895
+nỗ lực       0.735939
+-----------  --------
+
+
+Most similar with: khó khăn
+---------  --------
+khó        0.713782
+cập rập    0.712987
+tích cực   0.706919
+phức tạp   0.698822
+công việc  0.698264
+áp lực     0.679996
+hoàn cảnh  0.676807
+bất cập    0.667331
+trở ngại   0.665657
+thuận lợi  0.652395
+---------  --------
+
+
+Most similar with: cha
+----------  --------
+bố          0.884973
+con gái     0.856043
+con trai    0.838405
+con riêng   0.833431
+mẹ          0.832022
+hàng xóm    0.82434
+ngoại tình  0.810722
+vi thị huệ  0.809307
+em gái      0.808649
+vợ          0.806597
+----------  --------
+
+
+Most similar with: gái
+-------------  --------
+trai           0.836718
+chúc           0.773346
+người yêu      0.77277
+hồ quang hiếu  0.770204
+phương thủy    0.757257
+annika         0.753869
+chàng          0.752569
+tấn đức        0.747771
+xinh đẹp       0.745143
+nức nở         0.729804
+-------------  --------
+
+
+word 'Microsoft' not in vocabulary
+
+
+word 'Apple' not in vocabulary
+
+
+word 'Samsung' not in vocabulary
+
+

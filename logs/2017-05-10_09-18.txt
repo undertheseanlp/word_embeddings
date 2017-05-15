@@ -1,0 +1,90 @@
+Params: {'min_count': 1, 'size': 100}
+Vocab Size: 2338
+
+word 'Hà Nội' not in vocabulary
+
+
+Most similar with: đặc biệt
+----------  --------
+nhất là     0.511494
+chính       0.458415
+chủ yếu     0.438402
+đây         0.422679
+quan trọng  0.421477
+phần lớn    0.421363
+vô cùng     0.412789
+hấp dẫn     0.396838
+nhất        0.391771
+yếu tố      0.388687
+----------  --------
+
+
+Most similar with: quyết tâm
+----------  --------
+hơn nữa     0.668373
+mong muốn   0.668154
+tinh thần   0.667527
+nghiêm túc  0.66741
+tư duy      0.66359
+đổi mới     0.657194
+bền vững    0.653184
+nỗ lực      0.652588
+động lực    0.644482
+hết sức     0.642413
+----------  --------
+
+
+Most similar with: khó khăn
+---------  --------
+hoàn cảnh  0.609496
+phức tạp   0.600207
+khó        0.586528
+tích cực   0.568248
+nhất định  0.551262
+công việc  0.551033
+vất vả     0.550032
+chậm       0.542995
+tồn tại    0.535577
+cần thiết  0.502096
+---------  --------
+
+
+Most similar with: cha
+--------  --------
+con gái   0.811509
+mẹ        0.796097
+con trai  0.778377
+bố        0.777819
+vợ        0.757961
+chồng     0.752403
+vợ chồng  0.716757
+bố mẹ     0.68912
+giết      0.675719
+già       0.646133
+--------  --------
+
+
+Most similar with: gái
+----------  --------
+trai        0.846732
+xinh đẹp    0.667881
+chàng       0.653609
+con gái     0.640106
+người yêu   0.633524
+chàng trai  0.616597
+quen        0.609046
+nhé         0.606189
+già         0.588596
+mắt         0.588054
+----------  --------
+
+
+word 'Microsoft' not in vocabulary
+
+
+word 'Apple' not in vocabulary
+
+
+word 'Samsung' not in vocabulary
+
+

@@ -1,0 +1,3 @@
+[submodule "crawl_vn_news"]
+	path = crawl_vn_news
+	url = git@github.com:magizbox/crawl_vn_news.git
