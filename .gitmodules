@@ -1,3 +1,6 @@
 [submodule "crawl_vn_news"]
 	path = crawl_vn_news
 	url = git@github.com:magizbox/crawl_vn_news.git
+[submodule "corpus/corpus.viwiki"]
+	path = corpus/corpus.viwiki
+	url = git@github.com:magizbox/corpus.viwiki.git
