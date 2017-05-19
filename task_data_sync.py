@@ -1,3 +1,3 @@
 from dirsync import sync
-sync("crawl_vn_news/vn_news/data", "data", "sync")
+sync("corpus/corpus.vinews/vn_news/data", "corpus/corpus.vinews.data", "sync")
 sync("corpus/corpus.viwiki/viwiki", "corpus/corpus.viwiki.data", "sync")

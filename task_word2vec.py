@@ -46,8 +46,8 @@ if __name__ == '__main__':
     log(u"Vocab Size: %d\n" % len(vocab))
 
     words = [u"Hà Nội", u"đặc biệt", u"quyết tâm", u"khó khăn", u"cha", u"gái", u"Microsoft", u"Apple", u"Samsung"]
-
-    model.save("model\\word2vec.model")
+    model_file = "model\\word2vec-%s.model" % datetime.now().strftime('%Y-%m-%d_%H')
+    model.save(model_file)
 
     for word in words:
         word = word.lower()

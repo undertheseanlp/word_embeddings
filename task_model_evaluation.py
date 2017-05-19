@@ -6,7 +6,7 @@ import itertools
 
 
 def log(s):
-    print s
+    print(s)
     s = unicode(s) + u"\n"
     f.write(s)
 
@@ -15,7 +15,9 @@ log_file = "logs\\%s-word-analogies.txt" % datetime.now().strftime('%Y-%m-%d_%H-
 f = io.open(log_file, "w", encoding="utf-8")
 
 # analogy task
-model = Word2Vec.load("model\\word2vec.model")
+
+model_file = "model\\word2vec-%s.model" % datetime.now().strftime('%Y-%m-%d_%H')
+model = Word2Vec.load(model_file)
 lines = open("question-words.txt").read().decode("utf-8").splitlines()
 lines = [line.split("\t") for line in lines]
 
@@ -60,5 +62,5 @@ for line in lines:
     except Exception, e:
         print e
         print "Cannot find similar for", u", ".join([w1, w2, w3, w4])
-final_result = u"Final Result: %s / %s" % (score, total)
+final_result = u"\nFinal Result: %s / %s" % (score, total)
 log(final_result)

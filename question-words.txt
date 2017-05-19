@@ -28,6 +28,9 @@ mỹ	trump	việt nam	?
 : địa danh
 việt nam	hà nội	mỹ	?
 việt nam	hà nội	trung quốc	?
+mỹ	washington	việt nam	?
+nhật bản	tokyo	việt nam	?
+trung quốc	bắc kinh	việt nam	?
 
 : người nổi tiếng
 gái	phi thanh vân	trai	?

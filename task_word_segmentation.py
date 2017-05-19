@@ -36,5 +36,5 @@ def segment_words(corpus_dir, target_dir):
 
 
 if __name__ == '__main__':
-    segment_words(corpus_dir="data", target_dir="corpus.pending")
+    segment_words(corpus_dir="corpus/corpus.vinews.data", target_dir="corpus/corpus.vinews.segmented")
     segment_words(corpus_dir="corpus/corpus.viwiki.data", target_dir="corpus/corpus.viwiki.segmented")

@@ -1,0 +1,61 @@
+
+
+: từ loại
+[ ] vui, cười, buồn => vui vẻ (?), hát, mẹ chồng, im, cô ta, đùa, lặng lẽ, nhảy múa, hò reo, vỗ tay
+[ ] cười, vui, khóc => vui vẻ (?), hào hứng, dễ thương, buồn, ngọt ngào, hài hước, niềm vui, lãng mạn, nụ cười, yêu thương
+[ ] vui, tình yêu, buồn => người mình (?), yêu thương, ngày valentine, niềm, tình cảm, niềm vui, hạnh phúc, tấm lòng, người yêu, tình bạn
+
+
+: gia đình
+[ ] trai, gái, bố => tybalt (mẹ), nguyễn hồng quang, 9x, be a star, mai vu, nguyễn thành đạt, thiếu nữ, quân ", xíu, quốc minh
+[ ] bố, mẹ, trai => cha (gái), bố mẹ, vợ, con dâu, anh trai, ông bà, con gái, bà, mẹ chồng, cha mẹ
+[ ] bố, mẹ, chồng => cha (vợ), con trai, đẻ, anh trai, con gái, bà ngoại, bố mẹ, con nhỏ, em gái, đứa
+[ ] bố, mẹ, ông => con gái (?), em gái, em trai, con trai, vợ, cha, con dâu, chị gái, đẻ, chồng
+[ ] ông, bà, bố => reagan (?), nixon, tổng thống, carter, roosevelt, oppenheimer, eisenhower, nhà trắng, wilberforce, bush
+[ ] chồng, vợ, bố => phi thanh vân (mẹ), bảo duy, người yêu, đàn ông, cô gái, mẹ chồng, tình, hàng xóm, hắn, bạn thân
+[ ] chồng, vợ, trai => mẹ (gái), cha, mẹ chồng, bố mẹ, con dâu, phi thanh vân, tôi, hắn, bố, duy
+[ ] trai, gái, chồng => nguyễn hồng quang (vợ), xíu, tybalt, nguyễn thành đạt, be a star, châu thị kim n, anh kiệt, mai vu, quân ", quốc minh
+[ ] chồng, đấm, vợ => đầu gối (?), khuỷu, giơ, chọc, nhả, mỏi, áp sát, châu ngọc quang, quật ngã, rờ
+[ ] trai, chú, gái => cậu bé (?), con, chó, mèo, khỉ, cô bé, sư tử, em bé, con gái, cưng
+
+
+: xã hội
+[ ] trai, xinh, gái => xinh xắn (?), nữ tính, cứng cáp, nhỏ nhắn, đáng yêu, sành điệu, dễ thương, dịu dàng, khỏe khoắn, quyến rũ
+[ ] trẻ con, đồ chơi, người lớn => hộ mệnh (?), bán công nghiệp, bobber, cốm, thổ cẩm, bần, hương hoa, seat, dọc mùng, đen tối giản
+[ ] mỹ, giàu, việt nam => trẻ tuổi (?), nhu yếu, châu mỹ, ích, gần gũi, da màu, phi thường, bình dân, tuyệt vời, hiền lành
+[ ] mỹ, giàu, trung quốc => tuyệt vời (?), ích, trẻ tuổi, hoàn hảo, cao tuổi, phóng khoáng, hiền lành, lý tưởng, năng động, nổi trội
+[ ] mỹ, trung quốc, việt nam => hoa kỳ (?), nga, iran, thổ nhĩ kỳ, triều tiên, ấn độ, nhật bản, hàn quốc, cuba, mexico
+[ ] mỹ, trung quốc, anh => ấn độ (?), hàn quốc, nhật bản, hoa kỳ, đài loan, triều tiên, tq, cuba, iran, philippines
+[ ] mỹ, trung quốc, nhật bản => hoa kỳ (?), mĩ, nga, nhu yếu, cuba, ukraine, tq, trump, iran, israel
+[ ] mỹ, trump, việt nam => donald trump (?), obama, nhà trắng, putin, comey, washington, erdogan, bình nhưỡng, assad, clinton
+
+
+: địa danh
+[ ] việt nam, hà nội, mỹ => đà nẵng (?), tphcm, tp hcm, tp, hải phòng, ninh bình, hcm, cần thơ, hồ chí minh, nha trang
+[ ] việt nam, hà nội, trung quốc => tp hcm (?), đà nẵng, tphcm, tp, hcm, hải phòng, hồ chí minh, cần thơ, ninh bình, quận
+[ ] mỹ, washington, việt nam => moscow (?), nhà trắng, hoa kỳ, california, bình nhưỡng, tehran, iran, seattle, kennedy, ukraine
+[ ] nhật bản, tokyo, việt nam => seoul (?), berlin, saudi arabia, osaka, thượng hải, pakistan, moskva, moscow, philippines, hồng kông
+[ ] trung quốc, bắc kinh, việt nam => moscow (?), tokyo, thổ nhĩ kỳ, philippines, triều tiên, washington, ankara, bình nhưỡng, moskva, saudi arabia
+
+
+: người nổi tiếng
+[ ] gái, phi thanh vân, trai => bảo duy (?), ngọc trinh, đàm vĩnh hưng, hoàng kiều, trấn thành, huyền my, hương giang idol, hari won, hương giang, mỹ tâm
+[✓] gái, hari won, trai => trấn thành (trấn thành), hồ ngọc hà, nhã phương, đàm vĩnh hưng, tuấn hưng, phương thanh, cẩm ly, mai phương thúy, bích phương, rihanna
+[ ] hari won, xinh, trấn thành => xinh xắn (?), nhỏ nhắn, sành điệu, nữ tính, mảnh mai, xoăn, rạng rỡ, thon, khéo, đẹp trai
+[✓] phi thanh vân, gái, đàm vĩnh hưng => trai (trai), chồng, tấn đức, vợ, thiếu nữ, em gái, con gái, cô gái, người yêu, dì
+[ ] phi thanh vân, gái, ngọc trinh => trai (gái), tấn đức, tybalt, đánh đập, em gái, vợ, quỳnh anh, chồng, con riêng, nữ sinh
+[ ] ngọc trinh, người mẫu, trấn thành => siêu mẫu (?), tỷ phú, đại gia, cindy bishop, điển trai, tài tử, diễn viên, vũ công, mỹ nhân, thời trang
+
+
+: công nghệ
+[ ] samsung, samsung galaxy, apple => tab pro (iphone), galaxy, 7.0, 10.1, pro, tablet, tab 2, galaxy tab, s8 plus, 8.0
+[ ] samsung galaxy, samsung, iphone => lg (apple), lenovo, tab pro, sony, tab 2, 10.1, 7.0, toshiba, asus, galaxy
+[ ] samsung, bền, apple => cao lớn (?), đàn hồi, phân giải, gọn nhẹ, richter, dày, lạ mắt, tinh xảo, khí động học, nhớt
+[ ] samsung, microsoft, apple => google (?), sony, lg, ibm, intel, lenovo, ea, windows vista, ubuntu, xiaomi
+
+
+: thể thao
+[ ] công vinh, bóng đá, roger federer => hậu đậu (quần vợt), bóng rổ, vff, darrent williams, rugby, calisto, noo, zidane, nghiệp dư, hữu thắng
+[ ] tennis, roger federer, bóng đá => rafael nadal (?), madrid open, novak djokovic, hcv, andy roddick, andre agassi, potro, juan martín, bouchard, derby county
+
+Final Result: 2 / 51

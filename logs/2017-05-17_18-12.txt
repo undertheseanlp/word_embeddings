@@ -1,0 +1,138 @@
+Params: {'min_count': 2, 'size': 300}
+Vocab Size: 82855
+
+Most similar with: hà nội
+-----------  --------
+tp hcm       0.740513
+hcm          0.696523
+tphcm        0.690019
+hải phòng    0.686683
+đà nẵng      0.678149
+tp           0.624201
+cần thơ      0.613969
+quận         0.596619
+phan thiết   0.574193
+hồ chí minh  0.560619
+-----------  --------
+
+
+Most similar with: đặc biệt
+----------  --------
+điển hình   0.478071
+nhất là     0.451761
+quan trọng  0.447151
+chủ yếu     0.436827
+đáng        0.434973
+cần thiết   0.431298
+then chốt   0.41396
+nhất        0.403947
+chính       0.399277
+do đó       0.397902
+----------  --------
+
+
+Most similar with: quyết tâm
+----------  --------
+ý chí       0.697648
+bản lĩnh    0.658599
+nỗ lực      0.6565
+tinh thần   0.629597
+công cuộc   0.622616
+quyết liệt  0.604938
+cố gắng     0.590344
+kiên trì    0.569961
+mạnh mẽ     0.553014
+vững mạnh   0.547108
+----------  --------
+
+
+Most similar with: khó khăn
+----------  --------
+trở ngại    0.640426
+rắc rối     0.627374
+thuận lợi   0.564322
+bất lợi     0.549309
+vất vả      0.539384
+tốn kém     0.538766
+vướng mắc   0.531458
+thận trọng  0.523892
+lo lắng     0.512581
+trục trặc   0.512567
+----------  --------
+
+
+Most similar with: cha
+---------  --------
+bố         0.798675
+mẹ         0.756361
+con trai   0.755404
+anh trai   0.74957
+con gái    0.746254
+bà ngoại   0.717715
+vợ         0.711328
+ông bà     0.708452
+hoàng hậu  0.702714
+em gái     0.697571
+---------  --------
+
+
+Most similar with: gái
+-----------------  --------
+trai               0.879301
+em gái             0.645303
+lê thị nhật linh   0.600903
+tấn đức            0.585099
+bới móc            0.584133
+nguyễn hồng quang  0.577516
+thiếu nữ           0.575788
+cậu bé             0.57119
+người yêu          0.567942
+9x                 0.566375
+-----------------  --------
+
+
+Most similar with: microsoft
+-------  --------
+google   0.879017
+apple    0.866107
+samsung  0.836594
+sony     0.770278
+ibm      0.767751
+intel    0.760651
+ea       0.737408
+tesla    0.734055
+xiaomi   0.723388
+lg       0.721467
+-------  --------
+
+
+Most similar with: apple
+---------  --------
+microsoft  0.866107
+samsung    0.850712
+google     0.789811
+ea         0.770256
+tesla      0.725901
+sony       0.71896
+intel      0.699331
+ibm        0.694655
+lg         0.690827
+xiaomi     0.689169
+---------  --------
+
+
+Most similar with: samsung
+---------  --------
+apple      0.850712
+microsoft  0.836594
+lg         0.815816
+sony       0.814965
+google     0.77881
+intel      0.775928
+xiaomi     0.775154
+ipad       0.756596
+ea         0.745783
+htc        0.733653
+---------  --------
+
+
