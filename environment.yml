@@ -1,4 +1,4 @@
-name: underthesea.TMV
+name: underthesea.word_representation
 channels:
 - !!python/unicode
   'defaults'
