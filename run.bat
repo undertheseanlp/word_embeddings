@@ -1,4 +1,4 @@
-call activate underthesea.TMV
+call activate underthesea.word_representation
 set PYTHONIOENCODING=utf-8
 git submodule foreach git pull origin master
 python task_data_sync.py

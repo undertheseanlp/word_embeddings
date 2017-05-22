@@ -40,5 +40,5 @@ dependencies:
   - tabulate==0.7.7
   - underscore.py==0.1.6
   - underthesea==1.0.15
-prefix: !!python/unicode 'C:\ProgramData\Anaconda2\envs\underthesea.TMV'
+prefix: !!python/unicode 'C:\ProgramData\Anaconda2\envs\underthesea.word_representation'
 
