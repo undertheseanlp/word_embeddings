@@ -9,6 +9,9 @@ On Linux
 ```
 git clone git@github.com:magizbox/underthesea.word_representation.git
 cd underthesea.word_representation
+git submodule init
+git submodule update
+
 conda env create -f environment-linux.yml
 chmod u+x run.sh
 ./run.sh
@@ -18,6 +21,9 @@ On Windows
 
 ```
 git clone git@github.com:magizbox/underthesea.word_representation.git
+git submodule init
+git submodule update
+
 cd underthesea.word_representation
 conda env create -f environment.yml
 .\run.bat
