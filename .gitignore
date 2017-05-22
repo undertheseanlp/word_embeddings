@@ -141,3 +141,4 @@ ENV/
 /model/
 /corpus/corpus.viwiki.data/
 /corpus/corpus.vinews.data/
+/logs/

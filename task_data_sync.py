@@ -20,3 +20,10 @@ except:
     pass
 finally:
     sync(source_dir, target_dir, "sync")
+
+init_folders = ["logs", "model"]
+for folder in init_folders:
+    try:
+        mkdir(folder)
+    except:
+        pass
