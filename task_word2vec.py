@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from datetime import datetime
 import gensim, logging
-from os import listdir
+from os import listdir, mkdir
 import io
 from underscore import _
 from os.path import join
@@ -44,7 +44,10 @@ if __name__ == '__main__':
 
     log(u"Params: " + unicode(params))
     log(u"Vocab Size: %d\n" % len(vocab))
-
+    try:
+        mkdir("model")
+    except:
+        pass
     words = [u"Hà Nội", u"đặc biệt", u"quyết tâm", u"khó khăn", u"cha", u"gái", u"Microsoft", u"Apple", u"Samsung"]
     model_file = join("model", "word2vec-%s.model" % datetime.now().strftime('%Y-%m-%d_%H'))
     model.save(model_file)
