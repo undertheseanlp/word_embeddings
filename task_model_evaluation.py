@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 from datetime import datetime
 import io
+from os.path import join
+
 from gensim.models import Word2Vec
 import itertools
 
@@ -11,12 +13,12 @@ def log(s):
     f.write(s)
 
 
-log_file = "logs\\%s-word-analogies.txt" % datetime.now().strftime('%Y-%m-%d_%H-%M')
+log_file = join("logs", "%s-word-analogies.txt" % datetime.now().strftime('%Y-%m-%d_%H-%M'))
 f = io.open(log_file, "w", encoding="utf-8")
 
 # analogy task
 
-model_file = "model\\word2vec-%s.model" % datetime.now().strftime('%Y-%m-%d_%H')
+model_file = join("model", "word2vec-%s.model" % datetime.now().strftime('%Y-%m-%d_%H'))
 model = Word2Vec.load(model_file)
 lines = open("question-words.txt").read().decode("utf-8").splitlines()
 lines = [line.split("\t") for line in lines]
@@ -31,7 +33,7 @@ def first_character(word):
 
 groups = []
 
-log_file = "logs\\%s-vocab.txt" % datetime.now().strftime('%Y-%m-%d_%H-%M')
+log_file = join("logs", "%s-vocab.txt" % datetime.now().strftime('%Y-%m-%d_%H-%M'))
 vocab_file = io.open(log_file, "w", encoding="utf8")
 words = sorted(model.wv.vocab.keys())
 for k, g in itertools.groupby(words, first_character):

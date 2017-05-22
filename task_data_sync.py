@@ -1,16 +1,22 @@
 from os import mkdir
+from os.path import join
+
 from dirsync import sync
 
 try:
-    mkdir("corpus/corpus.vinews.data")
+    source_dir = join("corpus", "corpus.vinews", "vn_news", "data")
+    target_dir = join("corpus", "corpus.vinews.data")
+    mkdir(target_dir)
 except:
     pass
 finally:
-    sync("corpus/corpus.vinews/vn_news/data", "corpus/corpus.vinews.data", "sync")
+    sync(source_dir, target_dir, "sync")
 
 try:
-    mkdir("corpus/corpus.viwiki.data")
+    source_dir = join("corpus", "corpus.viwiki", "viwiki")
+    target_dir = join("corpus", "corpus.viwiki.data")
+    mkdir(target_dir)
 except:
     pass
 finally:
-    sync("corpus/corpus.viwiki/viwiki", "corpus/corpus.viwiki.data", "sync")
+    sync(source_dir, target_dir, "sync")
