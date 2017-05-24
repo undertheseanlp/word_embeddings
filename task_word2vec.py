@@ -9,6 +9,7 @@ from tabulate import tabulate
 
 
 def load_documents(folder):
+    folder = unicode(folder)
     documents = listdir(folder)
     documents = [join(folder, document) for document in documents]
     return documents
@@ -28,7 +29,8 @@ def log(s):
 
 
 if __name__ == '__main__':
-    documents = load_documents(join("corpus", "corpus.vinews.segmented"))
+    documents = []
+    # documents.extend(load_documents(join("corpus", "corpus.vinews.segmented")))
     documents.extend(load_documents(join("corpus", "corpus.viwiki.segmented")))
 
     sentences = [get_sentence(document) for document in documents]
