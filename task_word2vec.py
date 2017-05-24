@@ -30,15 +30,16 @@ def log(s):
 
 if __name__ == '__main__':
     documents = []
-    # documents.extend(load_documents(join("corpus", "corpus.vinews.segmented")))
+    documents.extend(load_documents(join("corpus", "corpus.vinews.segmented")))
+    documents.extend(load_documents(join("corpus", "corpus.vinews.titles.segmented")))
     documents.extend(load_documents(join("corpus", "corpus.viwiki.segmented")))
 
     sentences = [get_sentence(document) for document in documents]
     sentences = [s for sublist in sentences for s in sublist]
 
     # train word2vec on the two sentences
-    params = {"size": 300, "min_count": 2}
-    model = gensim.models.Word2Vec(sentences, size=params["size"], min_count=params["min_count"])
+    params = {"size": 300, "min_count": 2, "window": 7}
+    model = gensim.models.Word2Vec(sentences, size=params["size"], min_count=params["min_count"], window=params["window"])
     vocab = list(model.wv.vocab.keys())
 
     log_file = join("logs", "%s.txt" % datetime.now().strftime('%Y-%m-%d_%H-%M'))

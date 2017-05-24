@@ -142,3 +142,4 @@ ENV/
 /corpus/corpus.viwiki.data/
 /corpus/corpus.vinews.data/
 /logs/
+/corpus/corpus.vinews.titles.data/
