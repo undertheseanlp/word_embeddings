@@ -4,31 +4,8 @@
 ![](https://img.shields.io/badge/opensource-vietnamese-blue.svg)
 ![](https://img.shields.io/badge/build-passing-green.svg)
 
-This repository contains experiments in Vietnamese Word Representation problem. It is a part of [underthesea](https://github.com/magizbox/underthesea) project.
+Dự án nghiên cứu về bài toán *word embeddings tiếng Việt*, được phát triển bởi nhóm nghiên cứu xử lý ngôn ngữ tự nhiên tiếng Việt - [underthesea](https://github.com/undertheseanlp). Chứa mã nguồn các thử nghiệm cho việc xử lý dữ liệu, huấn luyện và đánh giá mô hình, cũng như cho phép dễ dàng tùy chỉnh mô hình đối với những tập dữ liệu mới.
 
-## Usage
+## Bản quyền
 
-On Linux
-
-```
-git clone git@github.com:magizbox/underthesea.word_representation.git
-cd underthesea.word_representation
-git submodule init
-git submodule update
-
-conda env create -f environment-linux.yml
-chmod u+x run.sh
-./run.sh
-```
-
-On Windows
-
-```
-git clone git@github.com:magizbox/underthesea.word_representation.git
-git submodule init
-git submodule update
-
-cd underthesea.word_representation
-conda env create -f environment.yml
-.\run.bat
-```
+Mã nguồn của dự án được phân phối theo giấy phép [GPL-3.0](LICENSE.txt).
