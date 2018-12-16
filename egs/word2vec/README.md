@@ -1,0 +1,1 @@
+# Thử nghiệm xây dựng word embeddings sử dụng word2vec
