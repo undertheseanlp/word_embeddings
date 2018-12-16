@@ -1,6 +1,0 @@
-[submodule "corpus/corpus.viwiki"]
-	path = corpus/corpus.viwiki
-	url = git@github.com:magizbox/corpus.viwiki.git
-[submodule "corpus/corpus.vinews"]
-	path = corpus/corpus.vinews
-	url = git@github.com:magizbox/corpus.vinews.git
